@@ -1,7 +1,7 @@
-# [MovieTrailer]
+# MovieTrailer
 
 MovieTrailer displays my favourite movies and allows the user to see their trailers.
-This is also the first project of my Udacity Full Stack Nanodegree program.
+As a side note, this is also the first project of my Udacity Full Stack Nanodegree program.
 
 ## Table of contents
 
@@ -12,7 +12,7 @@ This is also the first project of my Udacity Full Stack Nanodegree program.
 
 ## Quick start
 
-* Clone the repo: `git clone `
+* Clone the repo: `git clone https://github.com/billzhengC/udacity_fullstack.git`
 * Make sure you have Python2 installed. Otherwise, download it [here](https://www.python.org/downloads/).
 * Run entertainment_center.py by calling `python entertainment_center.py` in your terminal. This will generate a html file called `fresh_tomatoes.html`.
 * You should be able to see this file automatically opened in your browser.
